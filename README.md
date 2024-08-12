@@ -18,11 +18,12 @@ Here are some of the projects I've been working on:
 Connect with me online:
 
 - [LinkedIn](https://www.linkedin.com/in/srinidhi-krishnan-9434b2250/)
-- [LeetCode]([https://leetcode.com/your-leetcode-username](https://leetcode.com/u/Srinidhi_03/))
+- [LeetCode](https://leetcode.com/u/Srinidhi_03/)
 - [Resume Website](https://your-resume-website.com) (Coming soon)
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![Srinidhi's GitHub stats](![Srinidhi-Krishnan30's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srinidhi-Krishnan30&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+)
 
 ## 🌱 Currently Learning
 - [New Technology/Skill]

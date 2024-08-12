@@ -1,41 +1,52 @@
-# Hi there, I'm [Your Name] 👋
+<div align="center">
+  <img src="https://your-gif-url.com/intro.gif" alt="Hi, I'm [Your Name] 👋" width="600"/>
+  <h1>Welcome to My Interactive GitHub Portfolio!</h1>
+</div>
 
-Welcome to my GitHub profile! I'm a software developer passionate about [your interests, e.g., web development, AI, open source]. I love working on innovative projects and exploring new technologies.
+<div align="center">
+  <video autoplay loop muted playsinline>
+    <source src="https://your-background-video-url.com/bg.mp4" type="video/mp4">
+  </video>
+</div>
 
-## 🚀 My Projects
-Here are some of the projects I've been working on:
+---
 
-- **[Project 1 Name](https://github.com/your-username/Project1)**: A brief description of Project 1.  
-  ![Repo Stars](https://img.shields.io/github/stars/your-username/Project1?style=flat-square) ![Repo Forks](https://img.shields.io/github/forks/your-username/Project1?style=flat-square) ![Repo Issues](https://img.shields.io/github/issues/your-username/Project1?style=flat-square)
+## 🛤️ My Journey
+<div align="center">
+  <img src="https://your-timeline-image-url.com/timeline.png" alt="My Journey" width="800"/>
+</div>
 
-- **[Project 2 Name](https://github.com/your-username/Project2)**: A brief description of Project 2.  
-  ![Repo Stars](https://img.shields.io/github/stars/your-username/Project2?style=flat-square) ![Repo Forks](https://img.shields.io/github/forks/your-username/Project2?style=flat-square) ![Repo Issues](https://img.shields.io/github/issues/your-username/Project2?style=flat-square)
+## 🌟 Projects I'm Proud Of
+<div align="center">
+  <img src="https://your-carousel-image-url.com/project-carousel.png" alt="Project Carousel" width="800"/>
+</div>
 
-- **[Project 3 Name](https://github.com/your-username/Project3)**: A brief description of Project 3.  
-  ![Repo Stars](https://img.shields.io/github/stars/your-username/Project3?style=flat-square) ![Repo Forks](https://img.shields.io/github/forks/your-username/Project3?style=flat-square) ![Repo Issues](https://img.shields.io/github/issues/your-username/Project3?style=flat-square)
+- **[Live Demo of Project 1](https://your-live-demo-url.com)** | [Repository](https://github.com/your-username/Project1)
+- **[Live Demo of Project 2](https://your-live-demo-url.com)** | [Repository](https://github.com/your-username/Project2)
 
-## 🌐 Online Presence
-Connect with me online:
+---
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- [LeetCode](https://leetcode.com/your-leetcode-username)
-- [Resume Website](https://your-resume-website.com) (Coming soon)
+## 🔥 Skills & Technologies
+<div align="center">
+  <img src="https://your-skill-graph-url.com/skill-graph.png" alt="Skill Graph" width="800"/>
+</div>
 
-## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+## 💬 Let's Connect!
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
+    <img src="https://your-icon-url.com/linkedin-icon.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://leetcode.com/your-leetcode-username">
+    <img src="https://your-icon-url.com/leetcode-icon.png" alt="LeetCode" width="40"/>
+  </a>
+  <a href="https://your-resume-website.com">
+    <img src="https://your-icon-url.com/resume-icon.png" alt="Resume" width="40"/>
+  </a>
+</div>
 
-## 🌱 Currently Learning
-- [New Technology/Skill]
+---
 
-## 💻 Languages I Know
-Here are the programming languages I work with:
-
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-Feel free to explore my repositories and connect with me through the platforms above!
+<div align="center">
+  <h2>Thanks for visiting! 🎉</h2>
+  <img src="https://your-signature-image-url.com/signature.png" alt="Your Signature" width="300"/>
+</div>

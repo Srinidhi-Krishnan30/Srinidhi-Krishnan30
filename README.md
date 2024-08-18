@@ -25,10 +25,11 @@ Connect with me online:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinidhi-Krishnan30&layout=compact&theme=radical)
 
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/Srinidhi-Krishnan30?theme=dark&font=baloo&extension=null)
+![LeetCode Stats]([https://leetcode.card.workers.dev/Srinidhi-Krishnan30?theme=dark&font=baloo&extension=null](https://leetcode.card.workers.dev/u/Srinidhi_03?theme=dark&font=baloo&extension=null))
 
 ## 🌱 Currently Learning
-[New Technology/Skill]
+![Unity Hub](https://img.shields.io/badge/UnityHub-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) I am currently learning Unity Hub  
+![Speech and Language Processing](https://img.shields.io/badge/Speech%20and%20Language%20Processing-%23008CFF.svg?style=for-the-badge) and exploring Speech and Language Processing.
 
 ## 💻 Languages & Technologies I Know
 Here are the programming languages and technologies I work with:

@@ -5,14 +5,15 @@ Welcome to my GitHub profile! I'm a dedicated student with a strong passion for 
 ## 🚀 My Projects
 Here are some of the projects I've been working on:
 
-**Alzheimer Disease Detector:** A brief description of Project 1.  
-Repo Stars | Repo Forks | Repo Issues
+**[Alzheimer Disease Detector](https://github.com/MuhmmadAbrar/Azheimer-predictor):** A brief description of Project 1.  
+![Repo Stars](https://img.shields.io/github/stars/MuhmmadAbrar/Azheimer-predictor?style=for-the-badge) ![Repo Forks](https://img.shields.io/github/forks/MuhmmadAbrar/Azheimer-predictor?style=for-the-badge) ![Repo Issues](https://img.shields.io/github/issues/MuhmmadAbrar/Azheimer-predictor?style=for-the-badge)
 
-**Project 2 Name:** A brief description of Project 2.  
-Repo Stars | Repo Forks | Repo Issues
+**[Eye Disease Detection](https://github.com/Srinidhi-Krishnan30/Eye_Disease_Detection):** A brief description of Project 2.  
+![Repo Stars](https://img.shields.io/github/stars/Srinidhi-Krishnan30/Eye_Disease_Detection?style=for-the-badge) ![Repo Forks](https://img.shields.io/github/forks/Srinidhi-Krishnan30/Eye_Disease_Detection?style=for-the-badge) ![Repo Issues](https://img.shields.io/github/issues/Srinidhi-Krishnan30/Eye_Disease_Detection?style=for-the-badge)
 
-**Project 3 Name:** A brief description of Project 3.  
-Repo Stars | Repo Forks | Repo Issues
+**[Routecraft: A Garbage Truck Route Optimization System](https://github.com/Srinidhi-Krishnan30/Routecraft-A-garbage-truck-route-optimization-system):** A brief description of Project 3.  
+![Repo Stars](https://img.shields.io/github/stars/Srinidhi-Krishnan30/Routecraft-A-garbage-truck-route-optimization-system?style=for-the-badge) ![Repo Forks](https://img.shields.io/github/forks/Srinidhi-Krishnan30/Routecraft-A-garbage-truck-route-optimization-system?style=for-the-badge) ![Repo Issues](https://img.shields.io/github/issues/Srinidhi-Krishnan30/Routecraft-A-garbage-truck-route-optimization-system?style=for-the-badge)
+
 
 ## 🌐 Online Presence
 Connect with me online:

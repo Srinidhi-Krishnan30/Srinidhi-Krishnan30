@@ -25,7 +25,7 @@ Connect with me online:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinidhi-Krishnan30&layout=compact&theme=radical)
 
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/u/Srinidhi_03?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/Srinidhi_03?theme=dark&font=baloo&extension=null)
 
 
 ## 🌱 Currently Learning
